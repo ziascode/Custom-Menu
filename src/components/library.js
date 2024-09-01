@@ -2,106 +2,106 @@ export const library = [
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308563/metas/clients/guelph%20kabob/paghmon.dinner_mekpp3.jpg',
         title: 'Paghman Kabob',
-        desc: 'Combination of grilled chicken thigh and kofta kabob. Include rice, salad, and naan',
-        price: '$14.49',
+        desc: 'Combination of grilled chicken thigh and kofta kabob. Includes rice, salad, and naan',
+        price: '$16.49',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308565/metas/clients/guelph%20kabob/sultani.dinner_yl4zls.jpg',
         title: 'Sultani Kabob',
-        desc: 'Beef tikka kabob with beef kofta double beef plate. Include rice, salad, and naan',
-        price: '$15.49',
+        desc: 'Beef tikka kabob with beef kofta double beef plate. Includes rice, salad, and naan',
+        price: '$17.49',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/waziri.dinner_yswby6.jpg',
         title: 'Waziri Kabob',
-        desc: 'Skewer of chicken and kofta kabob marinated in house seasoning. Include rice, salad, and naan.',
-        price: '$14.99',
+        desc: 'Skewer of chicken and kofta kabob marinated in house seasoning. Includes rice, salad, and naan.',
+        price: '$17.49',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308560/metas/clients/guelph%20kabob/koftadinner_oniefa.jpg',
         title: 'Kofta Kabob',
         desc: '2 skewers of lean ground beef marinated in fresh grated spices and seasoning. Includes rice, salad &naan.',
-        price: '$11.99',
+        price: '$14.99',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308554/metas/clients/guelph%20kabob/chiekn_dinner_y3qldp.jpg',
         title: 'Chicken Breast Kabob',
         desc: 'Grilled boneless chicken breast marinated in house seasoning. Includes rice, salad & naan.',
-        price: '$13.49',
+        price: '$15.99',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308552/metas/clients/guelph%20kabob/chikkentikkadinner_kkljq2.jpg',
         title: 'Chicken Tikka Kabob',
         desc: 'Boneless chicken thigh marinated fresh in tikka seasoning. Includes rice, salad & naan.',
-        price: '$12.99',
+        price: '$14.99',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308561/metas/clients/guelph%20kabob/lamb.tika.dinner_el2y4o.jpg',
         title: 'Lamb Tikka Kabob',
         desc: 'Finest Lamb meat marinated in house seasoning . Includes rice, salad & naan.',
-        price: '$14.99',
+        price: '$15.99',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652314995/metas/clients/guelph%20kabob/chaplee_l2ablo.jpg',
         title: 'Chaplee Kabob',
         desc: 'Jalalabad style chaplee ground beef mixed with fresh vegetable and spices: Hot or Mild. Includes rice & naan.',
-        price: '$13.99',
+        price: '$15.99',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308553/metas/clients/guelph%20kabob/chopan.dinner_ipggho.jpg',
         title: 'Choppan Kabob',
         desc: 'Juicy Lamb chops marinated in traditional paghman spices. Includes rice, salad & naan.',
-        price: '$15.99',
+        price: '$17.99',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308567/metas/clients/guelph%20kabob/tandooridinner_s0y70a.jpg',
         title: 'Tandoori',
         desc: 'Chicken breast marinated in tandoori seasoning. Includes rice, salad & naan.',
-        price: '$13.99',
+        price: '$14.99',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308556/metas/clients/guelph%20kabob/fishdinner_ydcknx.jpg',
         title: 'Fish',
         desc: 'Haddock fish served with chips (fries) mixed with house spices. Includes rice, salad & naan.',
-        price: '$14.49',
+        price: '$15.49',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308553/metas/clients/guelph%20kabob/beeftikkadinner_resrml.jpg',
         title: 'Beef Tikka Kabob',
         desc: 'Striploin steak diced & marinated in special paghman seasoning. Includes rice, salad & naan.',
-        price: '$13.49',
+        price: '$15.99',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308559/metas/clients/guelph%20kabob/heratidinner_f14d4a.jpg',
         title: 'Herati',
         desc: 'Tandoori & kofta kabob skewer, Ultimate tandoori plate. Includes rice, salad & naan.',
-        price: '$15.49',
+        price: '$17.49',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308560/metas/clients/guelph%20kabob/kabuldinner_msrpch.jpg',
         title: 'Kabul Kabob',
         desc: 'Any 2 chicken skewers (chicken breast, chicken tikka or chicken tandoori). Includes rice, salad & naan.',
-        price: '$17.99',
+        price: '$20.99',
         category: 'Paghman Kabob Dinners'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308562/metas/clients/guelph%20kabob/lambshankdinner_wfsvu0.jpg',
         title: 'Qabuli w/Lamb Shank',
         desc: 'Traditional Qabuli served with slow cooked Lamb shank. Includes rice, salad & naan.',
-        price: '$15.99',
+        price: '$18.99',
         category: 'Paghman Kabob Dinners'
     },
 
@@ -127,8 +127,8 @@ export const library = [
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308556/metas/clients/guelph%20kabob/familydeal_fbjusc.jpg',
         title: 'Family Deal',
-        desc: 'Any 7 skewers. Served with 4 portion rice + salad & 5 naan.',
-        price: '$53.99',
+        desc: 'Any 7 skewers 2 kofta skewer. 1 beef tikka, 1 tandoori, 1 chicken tikka, 1 chicken breast and 1 chaplee. Served with 4 portion rice + salad & 5 naans.',
+        price: '$57.99',
         category: 'Family Deal'
     },
 
@@ -137,84 +137,84 @@ export const library = [
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308565/metas/clients/guelph%20kabob/paghmon.salad.naan_fy1xwh.jpg',
         title: 'Paghman Kabob',
         desc: 'Combination of grilled chicken thigh and kofta kabob. Includes salad & naan.',
-        price: '$13.49',
+        price: '$15.49',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308566/metas/clients/guelph%20kabob/sultani.salad.naan_kekxhh.jpg',
         title: 'Sultani Kabob',
         desc: 'Beef tikka kabob with beef kofta double beef plate. Includes salad & naan.',
-        price: '$14.49',
+        price: '$16.49',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308569/metas/clients/guelph%20kabob/wziri.saladand_naan_t7c0cv.jpg',
         title: 'Waziri Kabob',
         desc: 'Skewer of chicken and kofta kabob marinated in house seasoning. Includes salad & naan.',
-        price: '$13.99',
+        price: '$16.49',
         category: 'Kabob With Salad'
     }, 
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308551/metas/clients/guelph%20kabob/beeeftikka_oaoz4u.jpg',
         title: 'Beef Tikka Kabob',
         desc: 'Striploin steak diced & marinated in special paghman seasoning. Includes salad & naan.',
-        price: '$12.49',
+        price: '$14.99',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308561/metas/clients/guelph%20kabob/kofta_salad_l205a2.jpg',
         title: 'Kofta Kabob',
         desc: '2 skewers of lean ground beef marinated in fresh grated spices and seasoning. Includes salad & naan.',
-        price: '$10.99',
+        price: '$13.99',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308550/metas/clients/guelph%20kabob/chiken_salad_gwu1tx.jpg',
         title: 'Chicken Breast Kabob',
         desc: 'Grilled boneless chicken breast marinated in house seasoning. Includes salad & naan.',
-        price: '$12.49',
+        price: '$14.99',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308551/metas/clients/guelph%20kabob/chikentikkensalad_fqlboi.jpg',
         title: 'Chicken Tikka Kabob',
         desc: 'Boneless chicken thigh marinated fresh in tikka seasoning. Includes salad & naan.',
-        price: '$12.99',
+        price: '$13.99',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308562/metas/clients/guelph%20kabob/lamb.tikka.salad.naan_kejzhx.jpg',
         title: 'Lamb Tikka Kabob',
         desc: 'Finest Lamb meat marinated in house seasoning . Includes salad & naan.',
-        price: '$13.99',
+        price: '$14.99',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652315118/metas/clients/guelph%20kabob/chap_vqbdbg.jpg',
         title: 'Chaplee Kabob',
         desc: 'Jalalabad style chaplee ground beef mixed with fresh vegetable and spices: Hot or Mild. Includes salad & naan.',
-        price: '$12.99',
+        price: '$15.99',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308554/metas/clients/guelph%20kabob/chopan.salad_xqikl6.jpg',
         title: 'Choppan Kabob',
         desc: 'Juicy Lamb chops marinated in traditional paghman spices. Includes salad & naan.',
-        price: '$14.99',
+        price: '$16.99',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308567/metas/clients/guelph%20kabob/tandooridinner_s0y70a.jpg',
         title: 'Tandoori',
         desc: 'Chicken breast marinated in tandoori seasoning. Includes salad & naan.',
-        price: '$12.99',
+        price: '$13.99',
         category: 'Kabob With Salad'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308556/metas/clients/guelph%20kabob/fishdinner_ydcknx.jpg',
         title: 'Fish',
         desc: 'Haddock fish served with chips (fries) mixed with house spices. Includes salad & naan.',
-        price: '$13.49',
+        price: '$15.49',
         category: 'Kabob With Salad'
     },
     {
@@ -232,47 +232,47 @@ export const library = [
         category: 'Kabob With Salad'
     },
 
-    //KABOB ON THE RUN
+    //KABOB ON THE RUN*
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Chicken Tikka Wrap',
         desc: '',
-        price: '$8.49',
+        price: '$9.99',
         category: 'Kabob On The Run'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Tandoori Wrap',
         desc: '',
-        price: '$8.49',
+        price: '$9.99',
         category: 'Kabob On The Run'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Beef Kofta',
         desc: '',
-        price: '$8.49',
+        price: '$9.99',
         category: 'Kabob On The Run'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Chicken Breast Wrap',
         desc: '',
-        price: '$8.49',
+        price: '$9.99',
         category: 'Kabob On The Run'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Falafel Wrap',
         desc: '',
-        price: '$7.49',
+        price: '$8.99',
         category: 'Kabob On The Run'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Veggie Wrap',
         desc: '',
-        price: '$5.99',
+        price: '$7.99',
         category: 'Kabob On The Run'
     },
 
@@ -280,57 +280,57 @@ export const library = [
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Shawarma Wrap',
-        desc: '',
-        price: '$8.49',
+        desc: 'Farhad Style - Extra $1.00',
+        price: '$9.99',
         category: 'Shawarma'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Shawarma Half & Half',
         desc: 'Salad or Rice or Fries.',
-        price: '$11.99',
+        price: '$13.99',
         category: 'Shawarma'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Shawarma on Salad',
         desc: '',
-        price: '$10.99',
+        price: '$12.99',
         category: 'Shawarma'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Shawarma on the Rocks',
         desc: '',
-        price: '$10.99',
+        price: '$12.99',
         category: 'Shawarma'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
-        title: 'Shawarma with Rice Salad',
+        title: 'Shawarma with Rice + Salad',
         desc: '',
-        price: '$13.99',
+        price: '$16.99',
         category: 'Shawarma'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Shawarma on Sticks',
         desc: '',
-        price: '$10.99',
+        price: '$13.99',
         category: 'Shawarma'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Falafal with Rice + Salad',
         desc: '',
-        price: '$11.99',
+        price: '$14.49',
         category: 'Shawarma'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308568/metas/clients/guelph%20kabob/wrapany2_mhw0gs.jpg',
         title: 'Falafel on Sticks or Salad',
         desc: '',
-        price: '$9.99',
+        price: '$12.49',
         category: 'Shawarma'
     },
 
@@ -338,31 +338,31 @@ export const library = [
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308565/metas/clients/guelph%20kabob/pizza_mfbvt9.jpg',
         title: 'Medium Pizza',
-        desc: '3 toppings of your choice.',
-        price: '$9.49',
+        desc: '3 toppings of your choice. Extra topping 1.60',
+        price: '$12.99',
         category: 'Paghman Pizza'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308565/metas/clients/guelph%20kabob/pizza_mfbvt9.jpg',
         title: 'Large Pizza',
-        desc: '3 toppings of your choice.',
-        price: '$11.99',
+        desc: '3 toppings of your choice. Extra topping 1.85',
+        price: '$14.99',
         category: 'Paghman Pizza'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308565/metas/clients/guelph%20kabob/pizza_mfbvt9.jpg',
         title: 'X-Large Pizza',
-        desc: '3 toppings of your choice.',
-        price: '$12.99',
+        desc: '3 toppings of your choice. Extra topping 2.10',
+        price: '$15.99',
         category: 'Paghman Pizza'
     },
 
     //wings
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308558/metas/clients/guelph%20kabob/IMG_7682_i4lgxv.jpg',
-        title: 'Special Wings',
-        desc: '',
-        price: '$11.99',
+        title: 'Special Wings 1LB',
+        desc: 'Mild, Medium, Hot, BBQ, Honey Garlic',
+        price: '$12.99',
         category: 'Wings'
     },
 
@@ -420,45 +420,59 @@ export const library = [
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308562/metas/clients/guelph%20kabob/lamb.tikka.salad.naan_kejzhx.jpg',
         title: 'Lamb Chop',
         desc: '',
-        price: '$8.99',
+        price: '$9.99',
         category: 'Single Skewers'
     },
-    {
-        image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308562/metas/clients/guelph%20kabob/lambshankdinner_wfsvu0.jpg',
-        title: 'Lamb Shank',
-        desc: '',
-        price: '$7.99',
-        category: 'Single Skewers'
-    },
+    // {
+    //     image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308562/metas/clients/guelph%20kabob/lambshankdinner_wfsvu0.jpg',
+    //     title: 'Lamb Shank',
+    //     desc: '',
+    //     price: '$7.99',
+    //     category: 'Single Skewers'
+    // },
 
     //Dessert
     {
-        image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308550/metas/clients/guelph%20kabob/baklwa_i2brlx.jpg',
-        title: 'Baklava',
+        image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1648193302/metas/clients/guelph%20kabob/6_kiiadr.jpg',
+        title: 'Phirni',
         desc: '',
-        price: '',
+        price: '$4.99',
         category: 'Dessert'
     },
     {
-        image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1648193302/metas/clients/guelph%20kabob/6_kiiadr.jpg',
-        title: 'Cheesecake',
-        desc: '',
-        price: '$6.99',
+        image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308550/metas/clients/guelph%20kabob/baklwa_i2brlx.jpg',
+        title: 'Baklava',
+        desc: '1 pc: $3.99',
+        price: '2pc: $5.99',
         category: 'Dessert'
     },
+    // {
+    //     image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1648193302/metas/clients/guelph%20kabob/6_kiiadr.jpg',
+    //     title: 'Cheesecake',
+    //     desc: '',
+    //     price: '$6.99',
+    //     category: 'Dessert'
+    // },
 
     //Side Orders
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308549/metas/clients/guelph%20kabob/bolani_zqumdp.jpg',
         title: 'Bolani',
         desc: '',
-        price: '$6.49',
+        price: '$6.99',
+        category: 'Side Orders'
+    },
+    {
+        image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308549/metas/clients/guelph%20kabob/bolani_zqumdp.jpg',
+        title: 'Eggplant Borani',
+        desc: '',
+        price: '$6.99',
         category: 'Side Orders'
     },
     {
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652315609/metas/clients/guelph%20kabob/rice_esq5mq.jpg',
         title: 'Rice',
-        desc: 'Plain rice',
+        desc: '',
         price: '$3.99',
         category: 'Side Orders'
     },
@@ -487,7 +501,7 @@ export const library = [
         image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308562/metas/clients/guelph%20kabob/naanbread_bi0nqv.jpg',
         title: 'Naan',
         desc: '',
-        price: '$1.25',
+        price: '$1.99',
         category: 'Side Orders'
     },
     {
@@ -495,6 +509,13 @@ export const library = [
         title: 'Fries',
         desc: '',
         price: '$4.99',
+        category: 'Side Orders'
+    },
+    {
+        image: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1652308554/metas/clients/guelph%20kabob/drink_smdjle.jpg',
+        title: 'Mantu',
+        desc: '6 pcs: $8.99',
+        price: '12 pcs: $15.99',
         category: 'Side Orders'
     },
     {
@@ -518,5 +539,6 @@ export const library = [
         price: '$2.89',
         category: 'Side Orders'
     },
+    
     
 ]
